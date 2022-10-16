@@ -1,0 +1,125 @@
+@import "../../styles.scss";
+
+.outer-workout-details-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  // align-content: center;
+  padding: 10px;
+}
+
+.grouped-workout {
+  border: 1px solid lightgrey;
+  padding: 10px;
+  text-align: justify;
+  box-shadow: 2px 2px 4px lightgrey;
+  color: darkgrey;
+  margin: 15px 0;
+}
+
+.units {
+  font-size: 0.7em;
+}
+
+.metadata-tag {
+  font-size: 0.5em;
+  border: 0.4px solid $blue;
+  border-radius: 2px;
+  padding: 1px 4px;
+  text-align: center;
+  color: blue;
+  margin: 0 2px;
+}
+
+.metadata-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.descriptor {
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.top-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.different-sets-workout {
+  border: 1px solid lightgrey;
+  padding: 20px;
+  text-align: justify;
+  box-shadow: 2px 2px 4px lightgrey;
+  color: darkgrey;
+  margin: 15px 0;
+}
+
+.exercise-name {
+  text-align: left;
+}
+
+.workout-details-container {
+  border: 1px solid lightgrey;
+  padding: 25px;
+  text-align: justify;
+  box-shadow: 2px 2px 4px lightgrey;
+  color: darkgrey;
+  font-size: 0.8em;
+  // width: 100%;
+
+  @media screen and (min-width: 500px) {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.buttons-container {
+  align-self: center;
+  margin-top: 30px;
+}
+
+.confirmation-container {
+  background-color: palevioletred;
+  border: 1px solid red;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  color: white;
+}
+
+table {
+  background-color: white;
+
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-spacing: 1rem;
+  width: 90%;
+  align-self: center;
+  margin-top: 10px;
+}
+
+
+.workouts-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+thead tr {
+  border-top: none;
+}
+
+tr {
+  border-top: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
+  box-shadow: 1px 1px 3px lightgrey;
+}
+
+td,
+th {
+  padding: 10px;
+}

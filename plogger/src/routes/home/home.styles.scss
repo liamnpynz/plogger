@@ -1,0 +1,16 @@
+@import "../../styles.scss";
+
+.everything-below-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 98vh;
+
+  @media screen and (min-width: 500px) {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,552 @@
+{
+  "requestingSave": "false",
+  "sentiment": "avg",
+  "effort": "7",
+  "programme": "Push",
+  "Pull": [
+    {
+      "id": "9779a374-c694-4b4b-832e-40a846c2d7e6",
+      "ex_name": "Pulldowns",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "02a736da-bef4-4366-a1f8-43a51cc9402e",
+          "individual_weight": 5,
+          "individual_reps": 3
+        },
+        {
+          "set_id": "c34c2bd7-e3a3-4a00-9dc7-9fdde8bafaa0",
+          "individual_weight": 6,
+          "individual_reps": 4
+        },
+        {
+          "set_id": "5aef7441-c4ba-48d5-827e-11958b4572c9",
+          "individual_weight": 5,
+          "individual_reps": 5
+        },
+        {
+          "set_id": "9f402a04-fac7-4d73-9241-31c7c9457dd5",
+          "individual_weight": 5,
+          "individual_reps": 5
+        },
+        {
+          "set_id": "bbade870-edac-4dd6-b6a8-a330da142784",
+          "individual_weight": 4,
+          "individual_reps": 5
+        }
+      ],
+      "weight": 60,
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "id": "71f2dbf9-7618-47c3-b631-210b692e867e",
+      "ex_name": "Seated cable rows",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "95f3f981-dc92-494f-ad13-a24c480c7b79",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "49bfa131-d302-4bc6-8893-87d5adcc0524",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "4097f6e2-23f0-4919-9d78-bcfa200edf0d",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "a9fcbbe8-7167-44ca-b7b2-3c69616191ad",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "26dda81d-4cb5-4a26-bc77-5cdc29aeebd1",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 60,
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "id": "3d0b6a51-dfe5-40f2-9c00-420f707866a0",
+      "ex_name": "Face pulls",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "bcecdcc0-9674-41d1-94fd-4083ac7b0209",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "5d6e88d9-bd38-4828-ba26-c62ce0c088ad",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "aa19e50d-68b5-4068-8b8d-8267ac0467d5",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "cfb4e708-2df6-4e8d-a29c-39f2d312bcd0",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "73cb57e1-a8b5-4cfa-85fa-7b5d01f50e3f",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 25,
+      "sets": 5,
+      "reps": 15
+    },
+    {
+      "id": "774d9fb7-f1ca-425a-ad74-3bfbc19e4024",
+      "ex_name": "Hammer curls",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "4d715cec-642c-4a70-8e61-3822c8e4f275",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "b464e899-fc82-4d2d-8a1e-9bf861f18a3a",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "c7639239-3336-42b2-8134-e25745359256",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "e7d35d19-bb98-4d6c-ba54-96978c4834a9",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "333fdc42-4a82-426d-a6c2-62bcbe3b80ec",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 14,
+      "sets": 4,
+      "reps": 8
+    },
+    {
+      "id": "925f212a-c2cd-4d49-90cb-ecbc3674cc93",
+      "ex_name": "Dumbbell curls",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "5cfd8b2d-a62d-4c30-bb4c-f5dc9b3183eb",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "659ff915-cf94-4ad1-8dd2-b4af0d9b374a",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "bf65dd63-6aec-4175-b698-6beb4aeca0c8",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "be4fe562-a7ac-4913-a6e9-46a1e5e329f0",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "894ef74f-44a7-45e5-8243-c95573788174",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 14,
+      "sets": 3,
+      "reps": 8
+    }
+  ],
+  "Push": [
+    {
+      "id": "88579660-e7dc-480b-b54c-763a91923cba",
+      "ex_name": "Overhead press",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "61864b74-b978-45d7-b4fd-4ba2a85e2845",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "de142e68-9d5b-4243-9dee-c4c45b3af407",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "15c43aac-2b07-4ce9-b586-f6dcab5b9824",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "3ad44106-ff4c-4606-89ab-3675a6066b8a",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "1498dec4-0510-4ea1-b383-f78541341566",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 100,
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "id": "57742f22-d619-4008-b64a-715a937b7e2b",
+      "ex_name": "Bench press",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "fdc507cb-d327-46f6-8e39-5bc32fff388f",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "b36c5086-05e9-448f-bbfd-3c06018e4089",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "411cfb47-df75-4eea-90d7-ad238262191e",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "ed8497c3-6cdf-4d87-af47-d0b74f5bf483",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "e1524043-bfe2-41b5-958c-c2db076c7ef0",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 20,
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "id": "9db1e5e0-d208-4944-9aa0-23670fdede77",
+      "ex_name": "Triceps pushdown",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "d6e63ef1-e1b8-46a8-9441-a419218c8014",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "c4358ad9-f88c-4fa8-847c-f8b4ed11f953",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "cb206002-875b-47c5-ba53-ac570b5ff5dd",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "3561803b-e0a2-4484-9b8a-6abe8713a267",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "343ea0ec-aee0-4ff2-b480-4bfdabfe2065",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 25,
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "id": "5bb4398e-1fa6-418b-b584-30f174e97a04",
+      "ex_name": "Overhead triceps extensions",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "246c4622-e99e-455c-a2f0-5c8e0310c389",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "56af0296-3c9c-4a08-8b46-067bf7fc7edb",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "f4100838-c933-4b12-b09d-7fd51b76f472",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "04e87fa2-8766-47c3-b399-92beb1cf1e6c",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "0bf6ca77-ebb4-4cfb-b8cd-5e30c667d846",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 25,
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "id": "df5942a0-6548-41ff-964d-5aef4be4e784",
+      "ex_name": "Lateral raises",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "99cfb8d1-04c1-4454-a49d-4eb9ffd984f9",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "78ab9926-6a29-48f6-ac9f-69f4df8062ba",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "eeedcd8a-c2d9-4e93-8ca5-7533b17dbe90",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "70353a87-35b2-4986-82b5-56d6156383f3",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "72cacc9b-87c2-4a81-9f26-04302dde8d05",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 8,
+      "sets": 6,
+      "reps": 15
+    }
+  ],
+  "Legs": [
+    {
+      "id": "7ffdb8d2-d910-4c6e-bd5a-821db537edc4",
+      "ex_name": "Squat",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "cc452610-4ec8-4f96-a2c5-2fceafc1c8f6",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "5bbf4318-cd81-4f1e-a263-40a39cbab4c8",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "ea63286d-70db-49bf-bf18-5c6f0cbecd71",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "63176e1c-c2df-4145-84d3-ca74f27157a3",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "92fe5584-539e-4abb-ba24-edf82fdc9180",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 80,
+      "sets": 3,
+      "reps": 5
+    },
+    {
+      "id": "de02adcd-f344-4015-95de-c286e445a30a",
+      "ex_name": "Romanian deadlift",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "d8f660bc-5a02-40ff-bd72-3bd8b7c8da92",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "8603ae61-54a5-47de-ad54-ce022662787c",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "fc3a07d0-e361-4e15-b27a-97c70089a4b7",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "89cb94b6-6492-4985-9e74-a9fe8e2da3d8",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "fc9316fb-2404-4b87-8c09-c43d05288621",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 70,
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "id": "4dc2b054-4329-4ae1-9b01-3770908abf92",
+      "ex_name": "Leg press",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "9d1041ff-c22c-45fa-b01a-314cf27666d2",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "d00007d5-f292-409c-a578-372bc925f5cc",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "6aa54416-83ff-49f1-ace0-7502303ce256",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "1ade5a96-e473-4128-87ee-149bb8a5e9b2",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "00dd4ee4-5f61-47f5-890c-8272521583b4",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 80,
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "id": "32891d99-bafc-428c-a303-7d61b31e66d2",
+      "ex_name": "Leg curls",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "165a36cc-c5d2-48f9-b0d2-232625a3a859",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "8dd5347c-b170-4191-9854-dfa1e75d4d2b",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "bb7e8a8f-fd52-40d5-979d-cd619c9dd9e9",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "ba48ffaf-2bf2-4f9b-b2cd-0b476d80e22d",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "e8d69d46-0acd-4dd5-9c0d-d71b50bab210",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 40,
+      "sets": 3,
+      "reps": 8
+    },
+    {
+      "id": "b8f22b5c-610a-4373-bb0a-304dbdbe4349",
+      "ex_name": "Calf raises",
+      "mode": "overall",
+      "toggled_count": 0,
+      "individual_sets": [
+        {
+          "set_id": "d89b9cfc-c595-403e-b8d4-ff9656f38ccc",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "be8ef3d0-ee8d-484a-8474-d383574a5084",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "369ee646-452e-4694-81c8-96bbc0a6522e",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "bed47a15-b630-4e87-aed2-c678e8cd6294",
+          "individual_weight": 0,
+          "individual_reps": 0
+        },
+        {
+          "set_id": "a337af59-b18a-4a0d-83d7-2880e5e4eb0a",
+          "individual_weight": 0,
+          "individual_reps": 0
+        }
+      ],
+      "weight": 60,
+      "sets": 5,
+      "reps": 8
+    }
+  ]
+}

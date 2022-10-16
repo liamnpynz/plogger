@@ -1,0 +1,25 @@
+@import "../../styles.scss";
+
+.outer-privacy-container {
+  min-height: 98vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.inner-priv {
+  border: 1px solid lightgrey;
+  color: darkgrey;
+  margin: 20px;
+  padding: 20px;
+  box-shadow: 2px 2px 4px lightgrey;
+
+  p {
+    text-align: justify;
+  }
+
+  @media screen and (min-width: 500px) {
+    width: 70%;
+  }
+}

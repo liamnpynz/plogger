@@ -1,0 +1,33 @@
+@import "../../styles.scss";
+
+.nav-container {
+  background-color: $blue;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  box-shadow: 1px 1px 2px lightgrey;
+  border-bottom: 2px solid $darkgreen;
+  color: white;
+  top: 0;
+}
+
+.inner-selections {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.avatar-container {
+  padding-top: 10px;
+  padding-right: 5px;
+}
+
+.logo {
+  margin-left: 10px;
+  font-size: 1.15em;
+  color: white;
+  transition: transform 1s ease-in;
+}

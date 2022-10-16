@@ -1,0 +1,22 @@
+@import "../../styles.scss";
+
+.outer-account-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+}
+
+.account-container {
+  border: 1px solid lightgrey;
+  padding: 20px;
+  text-align: justify;
+  box-shadow: 2px 2px 4px lightgrey;
+  color: darkgrey;
+
+  @media screen and (min-width: 500px) {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

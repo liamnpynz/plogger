@@ -1,0 +1,30 @@
+@import "../../styles.scss";
+
+.buttons-container {
+  align-self: center;
+  margin-top: 30px;
+}
+
+.confirmation-container {
+  background-color: palevioletred;
+  border: 1px solid red;
+  margin: 5px;
+  padding: 5px;
+  text-align: center;
+  color: white;
+}
+
+.settings-container {
+  border: 1px solid lightgrey;
+  padding: 20px;
+  text-align: justify;
+  box-shadow: 2px 2px 4px lightgrey;
+  margin-top: 20px;
+  color: darkgrey;
+
+  @media screen and (min-width: 500px) {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
