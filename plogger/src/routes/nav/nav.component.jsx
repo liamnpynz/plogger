@@ -20,7 +20,7 @@ const Nav = () => {
               <Link to="/" style={{ textDecoration: "none" }}>
                 <div className="logo">
                   <b>
-                    <span style={{ color: "#38E54D" }}>PPL</span>ogger
+                    <span style={{ color: "#38E54D" }}>PPL</span>oggerz
                   </b>
                 </div>
               </Link>
